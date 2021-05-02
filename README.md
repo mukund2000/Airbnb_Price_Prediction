@@ -31,4 +31,6 @@ There were several motivation factors for picking this project which are listed 
 
 8. After the project we shall have all the necessary background for fundamental machine learning research.
 
-
+# Conclusion
+In recent years, the so-called sharing economy has spread all over the world and, through the proliferation of online peer-to-peer platforms, provides a marketplace that matches sellers who want to sell/share their underutilised assets with buyers who need them. One of the well-known and heavily debated manifestations of the sharing economy is an accommodation provider platform called Airbnb. Airbnb is experiencing astonishing growth provoking several intense debates, regulatory challenges, and political battles due to its wide-spread effects on rental and real-estate markets. Thus, it is important to analyse the uneven spatial effects of the phenomenon.
+The aim of our project is to map Airbnb’s presence in New York City but, going beyond visual inspection, it analyses the socio-economic factors influencing the spatiality of Airbnb in the American metropolis. After collecting data from various data sources, we performed a statistical analysis (correlation, regression analysis) to determine the socio-economic conditions of areas and revealed those factors that may affect the spatial distribution of Airbnb listings in the city.Results highlight that (1) Airbnb supply concentrates in those parts of New York City with a young population, (2) there is a significant number of housing units, and (3) the number of points of interest is high.
